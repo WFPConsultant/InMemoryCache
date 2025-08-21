@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Practice\\InMemoryCache\\InMemoryCache\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F630EE3B-6E5D-402C-AF8C-D207B1D93CB0}|InMemoryCache\\InMemoryCache.csproj|c:\\practice\\inmemorycache\\inmemorycache\\inmemorycache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F630EE3B-6E5D-402C-AF8C-D207B1D93CB0}|InMemoryCache\\InMemoryCache.csproj|solutionrelative:inmemorycache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F630EE3B-6E5D-402C-AF8C-D207B1D93CB0}|InMemoryCache\\InMemoryCache.csproj|c:\\practice\\inmemorycache\\inmemorycache\\inmemorycache\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F630EE3B-6E5D-402C-AF8C-D207B1D93CB0}|InMemoryCache\\InMemoryCache.csproj|solutionrelative:inmemorycache\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F630EE3B-6E5D-402C-AF8C-D207B1D93CB0}|InMemoryCache\\InMemoryCache.csproj|c:\\practice\\inmemorycache\\inmemorycache\\inmemorycache\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F630EE3B-6E5D-402C-AF8C-D207B1D93CB0}|InMemoryCache\\InMemoryCache.csproj|solutionrelative:inmemorycache\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F630EE3B-6E5D-402C-AF8C-D207B1D93CB0}|InMemoryCache\\InMemoryCache.csproj|c:\\practice\\inmemorycache\\inmemorycache\\inmemorycache\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F630EE3B-6E5D-402C-AF8C-D207B1D93CB0}|InMemoryCache\\InMemoryCache.csproj|solutionrelative:inmemorycache\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F630EE3B-6E5D-402C-AF8C-D207B1D93CB0}|InMemoryCache\\InMemoryCache.csproj|c:\\practice\\inmemorycache\\inmemorycache\\inmemorycache\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F630EE3B-6E5D-402C-AF8C-D207B1D93CB0}|InMemoryCache\\InMemoryCache.csproj|solutionrelative:inmemorycache\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F630EE3B-6E5D-402C-AF8C-D207B1D93CB0}|InMemoryCache\\InMemoryCache.csproj|c:\\practice\\inmemorycache\\inmemorycache\\inmemorycache\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F630EE3B-6E5D-402C-AF8C-D207B1D93CB0}|InMemoryCache\\InMemoryCache.csproj|solutionrelative:inmemorycache\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F630EE3B-6E5D-402C-AF8C-D207B1D93CB0}|InMemoryCache\\InMemoryCache.csproj|c:\\practice\\inmemorycache\\inmemorycache\\inmemorycache\\inmemorycache.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F630EE3B-6E5D-402C-AF8C-D207B1D93CB0}|InMemoryCache\\InMemoryCache.csproj|solutionrelative:inmemorycache\\inmemorycache.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F630EE3B-6E5D-402C-AF8C-D207B1D93CB0}|InMemoryCache\\InMemoryCache.csproj|c:\\practice\\inmemorycache\\inmemorycache\\inmemorycache\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F630EE3B-6E5D-402C-AF8C-D207B1D93CB0}|InMemoryCache\\InMemoryCache.csproj|solutionrelative:inmemorycache\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Practice\\InMemoryCache\\InMemoryCache\\InMemoryCache\\Dockerfile",
+              "RelativeDocumentMoniker": "InMemoryCache\\Dockerfile",
+              "ToolTip": "C:\\Practice\\InMemoryCache\\InMemoryCache\\InMemoryCache\\Dockerfile",
+              "RelativeToolTip": "InMemoryCache\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-20T07:19:59.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Practice\\InMemoryCache\\InMemoryCache\\InMemoryCache\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "InMemoryCache\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Practice\\InMemoryCache\\InMemoryCache\\InMemoryCache\\Properties\\launchSettings.json",
+              "RelativeToolTip": "InMemoryCache\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T07:00:41.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Practice\\InMemoryCache\\InMemoryCache\\InMemoryCache\\Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "InMemoryCache\\Data\\ProductRepository.cs",
+              "ToolTip": "C:\\Practice\\InMemoryCache\\InMemoryCache\\InMemoryCache\\Data\\ProductRepository.cs",
+              "RelativeToolTip": "InMemoryCache\\Data\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:58:17.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Practice\\InMemoryCache\\InMemoryCache\\InMemoryCache\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "InMemoryCache\\Models\\Category.cs",
+              "ToolTip": "C:\\Practice\\InMemoryCache\\InMemoryCache\\InMemoryCache\\Models\\Category.cs",
+              "RelativeToolTip": "InMemoryCache\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:58:14.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Practice\\InMemoryCache\\InMemoryCache\\InMemoryCache\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "InMemoryCache\\appsettings.Development.json",
+              "ToolTip": "C:\\Practice\\InMemoryCache\\InMemoryCache\\InMemoryCache\\appsettings.Development.json",
+              "RelativeToolTip": "InMemoryCache\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T06:57:58.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Practice\\InMemoryCache\\InMemoryCache\\InMemoryCache\\appsettings.json",
+              "RelativeDocumentMoniker": "InMemoryCache\\appsettings.json",
+              "ToolTip": "C:\\Practice\\InMemoryCache\\InMemoryCache\\InMemoryCache\\appsettings.json",
+              "RelativeToolTip": "InMemoryCache\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T06:57:21.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InMemoryCache",
+              "DocumentMoniker": "C:\\Practice\\InMemoryCache\\InMemoryCache\\InMemoryCache\\InMemoryCache.csproj",
+              "RelativeDocumentMoniker": "InMemoryCache\\InMemoryCache.csproj",
+              "ToolTip": "C:\\Practice\\InMemoryCache\\InMemoryCache\\InMemoryCache\\InMemoryCache.csproj",
+              "RelativeToolTip": "InMemoryCache\\InMemoryCache.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T06:54:34.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Practice\\InMemoryCache\\InMemoryCache\\InMemoryCache\\Program.cs",
+              "RelativeDocumentMoniker": "InMemoryCache\\Program.cs",
+              "ToolTip": "C:\\Practice\\InMemoryCache\\InMemoryCache\\InMemoryCache\\Program.cs",
+              "RelativeToolTip": "InMemoryCache\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:54:28.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
